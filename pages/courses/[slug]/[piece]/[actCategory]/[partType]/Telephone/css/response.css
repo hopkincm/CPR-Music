@@ -1,0 +1,33 @@
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+#Submit {
+    font-size: large;
+    height: 50px;
+    width: 100px;
+    border-radius: 15%;
+    background-color: rgb(199, 125, 229);
+    border-color: rgb(199, 125, 229);
+
+}
+
+.Submit {
+    padding-top: 3%;
+    text-align: center;
+}
+
+.Response {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    height: 600px;
+    background-color: #f8f8f8;
+    font-size: 16px;
+}

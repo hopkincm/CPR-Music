@@ -1,0 +1,74 @@
+.grid-container {
+    display: grid;
+    margin-left: 16%;
+    grid-template: 
+    "Melody Melody Baseline Baseline Creative Creative" 
+    "Melody Melody Baseline Baseline Creative Creative" 
+    "Melody Melody Baseline Baseline Creative Creative"; 
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+.Melody {
+    padding-top: 20%;
+    margin-left: 10%;
+}
+
+.Baseline {
+    padding-top: 20%;
+    margin-left: 10%;
+}
+
+.Creative {
+    padding-top: 20%;
+    margin-left: 10%;
+}
+
+.Response {
+    padding-top: 5%;
+    text-align: center;
+}
+
+#Melody {
+    background-color: rgb(255, 162, 0);
+    border-color: rgb(255, 162, 0);
+    border-radius: 50%;
+    font-size: 30px;
+    text-align: center;
+    height: 300px;
+    width: 300px;
+    size: 40;
+}
+
+#Baseline {
+    background-color: rgb(132, 255, 0);
+    border-color: rgb(132, 255, 0);
+    border-radius: 50%;
+    font-size: 30px;
+    height: 300px;
+    width: 300px;
+    size: 40;
+    
+}
+
+#Creative {
+    background-color: rgb(0, 255, 242);
+    border-color: rgb(0, 255, 242);
+    border-radius: 50%;
+    font-size: 30px;
+    height: 300px;
+    width: 300px;
+    size: 40;
+}
+
+#Response {
+    font-size: large;
+    height: 50px;
+    width: 100px;
+    border-radius: 15%;
+    background-color: rgb(199, 125, 229);
+    border-color: rgb(199, 125, 229);
+}

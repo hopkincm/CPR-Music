@@ -107,3 +107,53 @@ a:nth-of-type(6) .card .card-color {
 nav.navbar.navbar-dark .navbar-nav .nav-link {
   color: rgba(255,255,255,.8);
 }
+
+/* Telephone */
+
+
+
+h1 {
+  font-size: 50px;
+  text-align: center;
+}
+
+#Melody {
+  background-color: rgb(255, 162, 0);
+  border-color: rgb(255, 162, 0);
+  border-radius: 50%;
+  font-size: 30px;
+  text-align: center;
+  height: 300px; /* FIXME */
+  width: 300px;
+  size: 40;
+}
+
+#Baseline {
+  background-color: rgb(132, 255, 0);
+  border-color: rgb(132, 255, 0);
+  border-radius: 50%;
+  font-size: 30px;
+  height: 300px;
+  width: 300px;
+  size: 40;
+  
+}
+
+#Creative {
+  background-color: rgb(0, 255, 242);
+  border-color: rgb(0, 255, 242);
+  border-radius: 50%;
+  font-size: 30px;
+  height: 300px;
+  width: 300px;
+  size: 40;
+}
+
+#Response {
+  font-size: large;
+  height: 50px;
+  width: 100px;
+  border-radius: 15%;
+  background-color: rgb(199, 125, 229);
+  border-color: rgb(199, 125, 229);
+}
